@@ -5,7 +5,7 @@
 
 %define		_pearname	%{_class}_%{_subclass}
 Summary:	%{_class}_%{_subclass} - Supplementary trigonometric functions
-Summary(pl):	%{_class}_%{_subclass} -
+Summary(pl):	%{_class}_%{_subclass} - uzupe³niaj±ce funkcje trygonometryczne
 Name:		php-pear-%{_pearname}
 Version:	1.0
 Release:	1
@@ -22,11 +22,14 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Static class with methods that implement supplementary trigonometric,
 inverse trigonometric, hyperbolic, and inverse hyperbolic functions.
 
-This class has in PEAR status: %{_status}
+This class has in PEAR status: %{_status}.
 
 %description -l pl
+Statyczna klasa z metodami bêd±cymi implementacj± funkcji
+trygonometrycznych uzupe³niaj±cych, odwrotnych, hiperbolicznych oraz
+odwrotnych hiperbolicznych.
 
-Ta klasa ma w PEAR status: %{_status}
+Ta klasa ma w PEAR status: %{_status}.
 
 %prep
 %setup -q -c
