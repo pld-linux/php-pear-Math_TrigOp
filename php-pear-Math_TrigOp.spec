@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Static class with methods that implement supplementary trigonometric,
 inverse trigonometric, hyperbolic, and inverse hyperbolic functions.
 
-This class has in PEAR status: %{_status}.
+In PEAR status of this package is: %{_status}.
 
 %description -l pl
 Statyczna klasa z metodami bêd±cymi implementacj± funkcji
