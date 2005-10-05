@@ -8,7 +8,7 @@ Summary:	%{_class}_%{_subclass} - Supplementary trigonometric functions
 Summary(pl):	%{_class}_%{_subclass} - uzupe³niaj±ce funkcje trygonometryczne
 Name:		php-pear-%{_pearname}
 Version:	1.0
-Release:	2.1
+Release:	3
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 # Source0-md5:	98262560108abc7fea62bd7491d65984
