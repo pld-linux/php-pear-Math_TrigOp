@@ -14,6 +14,7 @@ Group:		Development/Languages/PHP
 # Source0-md5:	98262560108abc7fea62bd7491d65984
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/Math_TrigOp/
+BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 Requires:	php-pear
 BuildArch:	noarch
