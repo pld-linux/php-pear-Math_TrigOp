@@ -5,7 +5,7 @@
 
 %define		_pearname	%{_class}_%{_subclass}
 Summary:	%{_class}_%{_subclass} - Supplementary trigonometric functions
-Summary(pl.UTF-8):   %{_class}_%{_subclass} - uzupełniające funkcje trygonometryczne
+Summary(pl.UTF-8):	%{_class}_%{_subclass} - uzupełniające funkcje trygonometryczne
 Name:		php-pear-%{_pearname}
 Version:	1.0
 Release:	4
